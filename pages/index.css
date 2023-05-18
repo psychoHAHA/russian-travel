@@ -1,0 +1,32 @@
+@import './../page/page.css';
+@import './../1280/header/header.css';
+@import './../1280/header/__logo/header__logo.css';
+@import './../1280/header/__lang-link/header__lang-link.css';
+@import './../1280/header/__lang-links/header__lang-links.css';
+@import './../1280/lead/__title/lead__title.css';
+@import './../1280/lead/__subtitle/lead__subtitle.css';
+@import './../1280/lead/__image/lead__image.css';
+@import './../1280/lead/__caption/lead__caption.css';
+@import './../1280/intro/intro.css';
+@import './../1280/intro/__title/intro__title.css';
+@import './../1280/intro/__text/intro__text.css';
+@import './../1280/intro/__list/intro__list.css';
+
+
+
+
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 100;
+  src: url("Inter-Thin.woff2?v=3.19") format("woff2"),
+       url("Inter-Thin.woff?v=3.19") format("woff");
+}
+
+* {
+  background-color: #2A2C2F;
+  border: 1px solid red;
+  margin: 0;
+}
+

@@ -1,0 +1,7 @@
+.lead__image {
+  max-width: 984px;
+  max-height: 615px;
+  position: relative;
+  display: flex;
+  margin: 64px auto 0 auto;
+}
