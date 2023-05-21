@@ -15,3 +15,19 @@
 @import './../blocks/intro/__lists/intro__lists.css';
 @import './../blocks/intro/__list-title/intro__list-title.css';
 @import './../blocks/intro/__list-text/intro__list-text.css';
+@import './../blocks/photo-grid/photo-grid.css';
+@import './../blocks/photo-grid/__item/photo-grid__item.css';
+@import './../blocks/places/places.css';
+@import './../blocks/places/place/__title/place__title.css';
+@import './../blocks/places/place/place.css';
+@import './../blocks/places/place/__paragraph/place__paragraph.css';
+@import './../blocks/places/place/__website/__link/place__link.css';
+@import './../blocks/places/place/__website/__url-heading/place__url-heading.css';
+@import './../blocks/places/place/__image/place__image.css';
+@import './../blocks/places/place/__website/place__website.css';
+@import './../blocks/cover/cover.css';
+@import './../blocks/cover/__title/cover__title.css';
+@import './../blocks/cover/__subtitle/cover__subtitle.css';
+
+
+
