@@ -1,4 +1,10 @@
 .intro {
-  margin: 0;
-  color: #ffffff;
+  margin: 64px auto 0 16px;
+  width: 288px;
+}
+
+@media screen and (min-width: 768px) {
+  .intro {
+    margin: 88px auto 0 24px;
+  }
 }

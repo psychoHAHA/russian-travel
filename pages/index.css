@@ -8,27 +8,10 @@
 @import './../blocks/lead/__caption/lead__caption.css';
 @import './../blocks/intro/intro.css';
 @import './../blocks/intro/__title/intro__title.css';
-@import './../blocks/intro/__text/intro__text.css';
+@import './../blocks/intro/__subtitle/intro__subtitle.css';
 @import './../blocks/intro/__list/intro__list.css';
-
-
-
-
-
-
-
-
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 100;
-  src: url("Inter-Thin.woff2?v=3.19") format("woff2"),
-       url("Inter-Thin.woff?v=3.19") format("woff");
-}
-
-* {
-  background-color: #2A2C2F;
-  border: 1px solid red;
-  margin: 0;
-}
-
+@import './../blocks/page/page.css';
+@import './../blocks/lead/lead.css';
+@import './../blocks/intro/__lists/intro__lists.css';
+@import './../blocks/intro/__list-title/intro__list-title.css';
+@import './../blocks/intro/__list-text/intro__list-text.css';

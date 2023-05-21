@@ -1,6 +1,13 @@
 .header {
-  position: relative;
+  padding: 16px 16px 0 16px;
   display: flex;
   justify-content: space-between;
-  margin: 28px 48px 56px;
+  align-items: center;
 }
+
+@media screen and (min-width: 768px){
+  .header {
+    padding: 28px 24px 0 24px;
+  }
+}
+
