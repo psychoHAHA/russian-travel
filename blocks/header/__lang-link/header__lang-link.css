@@ -6,6 +6,7 @@
 
 .header__lang-link:focus {
   text-decoration: underline;
+  opacity: 0.8;
 }
 
 @media screen and (min-width: 768px){

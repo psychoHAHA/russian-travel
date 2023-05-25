@@ -5,3 +5,13 @@
   font-size: 12px;
   line-height: 18px;
 }
+
+@media screen and (min-width: 768px) {
+  .intro__lists-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}

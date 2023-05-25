@@ -2,3 +2,27 @@
     width: 288px;
     margin: 32px auto 0 auto;
 }
+
+@media screen and (min-width: 768px) {
+    .place__website {
+        width: 352px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__website {
+        width: 456px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__website {
+        width: 484px;
+        margin: 0 auto;
+    }
+}

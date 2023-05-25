@@ -5,3 +5,35 @@
     justify-content: center;
     row-gap: 12px;
 }
+
+@media screen and (min-width: 768px) {
+    .photo-grid {
+        display: grid;
+        grid-template-columns: 352px 352px;
+        grid-template-rows: 264px 264px;
+        row-gap: 16px;
+        column-gap: 16px;
+        margin-top: 88px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .photo-grid {
+        display: grid;
+        grid-template-columns: 300px 300px 300px;
+        grid-template-rows: 225px 225px 225px;
+        row-gap: 14px;
+        column-gap: 14px;
+        margin-top: 92px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .photo-grid {
+        display: grid;
+        grid-template-columns: 284px 284px 284px 284px;
+        grid-template-rows: 213px 213px 213px; 
+        row-gap: 16px;
+        column-gap: 16px;
+    }
+}

@@ -3,3 +3,27 @@
     height: 320px;
     width: 320px;
 }
+
+@media screen and (min-width: 768px) {
+    .place__image {
+        margin: 0;
+        height: 340px;
+        width: 340px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__image {
+        margin: 0;
+        height: 440px;
+        width: 440px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place__image {
+        margin: 0;
+        height: 460px;
+        width: 460px;
+    }
+}
