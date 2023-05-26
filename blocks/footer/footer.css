@@ -1,5 +1,5 @@
 .footer {
-  margin: 0 auto;
+  margin: 64px auto 0 auto;
 }
 
 @media screen and (min-width: 768px) {
@@ -8,5 +8,11 @@
     flex-direction: row;
     justify-content: space-between;
     padding-bottom: 24px;
+    margin-top: 88px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .footer {
+    margin-top: 92px;
+  }

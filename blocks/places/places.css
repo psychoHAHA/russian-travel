@@ -7,3 +7,9 @@
         margin: 88px auto 0 auto;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .places {
+        margin-top: 92px;
+    }
+}

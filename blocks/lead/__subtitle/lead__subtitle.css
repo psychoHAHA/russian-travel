@@ -11,10 +11,11 @@
 
 @media screen and (min-width: 768px) {
   .lead__subtitle {
-    width: 640px;
+    min-width: 640px;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
+    margin-top: 32px;
   }
 }
