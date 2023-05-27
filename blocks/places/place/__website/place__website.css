@@ -1,6 +1,6 @@
 .place__website {
     width: 288px;
-    margin: 32px auto 0 auto;
+    margin: 32px auto 32px auto;
 }
 
 @media screen and (min-width: 768px) {

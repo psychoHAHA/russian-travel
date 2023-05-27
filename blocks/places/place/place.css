@@ -12,6 +12,11 @@
         column-gap: 28px;
         row-gap: 48px;
     }
+    
+    .place:last-child {
+        margin-top: 75px;
+    }
+    
 }
 
 @media screen and (min-width: 1024px) {

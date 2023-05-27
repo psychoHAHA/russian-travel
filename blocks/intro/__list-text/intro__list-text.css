@@ -1,5 +1,5 @@
 .intro__list-text {
-  margin: 0;
+  margin: 0 0 0 5px;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .intro__lists-text {
+  .intro__list-text {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
