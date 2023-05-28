@@ -6,7 +6,7 @@
   font-weight: 400;
   font-size: 24px;
   line-height: 24px;
-  margin:0;
+  margin: 32px 0 0 0;
 }
 
 .footer__link:hover {
@@ -15,7 +15,7 @@
 
 @media screen and (min-width: 768px) {
   .footer__link {
-    margin-right: 18px;
+    margin: 0 18px 0 0;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
