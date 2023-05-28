@@ -11,6 +11,8 @@
   text-decoration: none;
   color: #ffffff;
   min-height: 320px;
+  width: 320px;
+  margin: 0 auto;
 }
 
 .cover__link::after {
@@ -32,12 +34,14 @@
 @media screen and (min-width: 768px) {
   .cover__link {
     min-height: 480px;
+    width: 768px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .cover__link {
     min-height: 640px;
+    width: 1024px;
   }
 }
 
@@ -45,6 +49,5 @@
   .cover__link {
     min-height: 740px;
     width: 1184px;
-    margin: 0 auto;
   }
 }
