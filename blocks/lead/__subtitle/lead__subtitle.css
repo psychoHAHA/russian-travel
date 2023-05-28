@@ -1,4 +1,5 @@
 .lead__subtitle {
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -12,7 +13,6 @@
 @media screen and (min-width: 768px) {
   .lead__subtitle {
     min-width: 640px;
-    font-style: normal;
     font-weight: 400;
     font-size: 30px;
     line-height: 36px;
