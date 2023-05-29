@@ -1,5 +1,6 @@
 .place__paragraph {
   margin: 0 auto;
+  padding: 0;
   width: 288px;
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -8,7 +9,7 @@
   line-height: 163%;
 }
 
-.place__paragraph:last-child {
+.place__paragraph:nth-child(2) {
   margin-top: 25px;
 }
 
@@ -16,10 +17,6 @@
   .place__paragraph {
     margin: 0;
     width: 352px;
-  }
-
-  .place__paragraph:first-child {
-    margin: 0;
   }
 }
 

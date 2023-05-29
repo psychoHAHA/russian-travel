@@ -1,7 +1,7 @@
 .photo-grid__item {
     height: 216px;
     width: 288px;
-    object-fit: contain;
+    object-fit: cover;
     margin: 0 auto;
 }
 

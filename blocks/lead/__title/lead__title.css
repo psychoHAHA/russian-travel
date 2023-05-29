@@ -4,7 +4,7 @@
   font-weight: 900;
   font-size: 40px;
   line-height: 44px;
-  color: #ffffff;
+  color: #fff;
   margin: 48px auto 0;
   text-align: center;
   width: 288px;
@@ -13,7 +13,6 @@
 @media screen and (min-width: 768px){
   .lead__title {
     width: 720px;
-    font-weight: 900;
     font-size: 96px;
     line-height: 100px;
   }
