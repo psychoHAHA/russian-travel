@@ -1,6 +1,6 @@
-.places {
-    margin: 64px 0 0 0;
-}
+/* .places {
+    margin: 64px auto 0 auto;
+} */
 
 @media screen and (min-width: 768px) {
     .places {
