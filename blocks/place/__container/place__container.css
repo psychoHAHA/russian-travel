@@ -1,14 +1,13 @@
 .place__container {
     margin: 0;
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     row-gap: 25px;
 }
 
 @media screen and (min-width: 768px) {
     .place__container {
-        display: grid;
-        grid-template-columns: 1fr;
+        display: flex;
         row-gap: 25px;
     }
 }
