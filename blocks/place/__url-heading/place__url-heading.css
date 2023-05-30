@@ -8,4 +8,5 @@
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 2px;
+    display: flex;
 }

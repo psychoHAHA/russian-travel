@@ -1,9 +1,20 @@
 .place__container {
     margin: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 25px;
 }
 
 @media screen and (min-width: 768px) {
     .place__container {
-        margin: 0;
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 25px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__container {
+        row-gap: 25px;
     }
 }
