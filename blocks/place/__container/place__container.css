@@ -4,16 +4,3 @@
     flex-direction: column;
     row-gap: 25px;
 }
-
-@media screen and (min-width: 768px) {
-    .place__container {
-        display: flex;
-        row-gap: 25px;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .place__container {
-        row-gap: 25px;
-    }
-}
